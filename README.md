@@ -29,11 +29,11 @@ Campaigns with a ROAS higher than 50 will be highlighted in the table with green
 ## Potential additions
 *(If I had longer)*
 
-Enhanced reporting could be done with extra information for each campaign in a field such as errors, that recorded which field has invalid properties, what type and how often and could be used for further normalising.
+Enhanced reporting could be done with extra information for each campaign in a field such as errors, that recorded which field had invalid properties, what type and how often so this could be used for further normalising.
 
-Authorisation to avoid having the server of the project accessible by any user from the correct domain. Currently only security is CORS restriction.
+Authorisation to avoid having the API of the project accessible by any user from the correct domain. Currently only security is CORS restriction.
 
-Filtering: allowing the user to enter a name or ID to pull data for a certain campaign or group of campaigns.
+Filtering to allow the user to enter a name or ID to pull data for a certain campaign or group of campaigns.
 
 
 
